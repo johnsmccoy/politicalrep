@@ -17,10 +17,10 @@ const candidate = Object.create({}, {
 //biography
 const bio = Object.create({}, {
     fullname: {
-        value: "Lorem ipsum dolor amet woke PBR&B air plant lo-fi meditation, gentrify mollit."
+        value: "Marsha Blackburn"
     },
     about: {
-        value: "Fingerstache lorem next level affogato, quinoa bushwick humblebrag irure. Vexillologist enamel pin nostrud asymmetrical post-ironic literally ex cillum mustache cronut food truck mixtape trust fund. Distillery ea dreamcatcher pitchfork butcher elit pickled roof party you probably haven't heard of them portland tattooed taxidermy keytar anim. Distillery art party cred, chicharrones whatever skateboard ut next level. Ennui try-hard hell of, umami hashtag woke green juice fugiat ad duis lorem migas street art gluten-free. Try-hard lo-fi pork belly kinfolk cardigan proident. Readymade jean shorts fam, asymmetrical culpa ut before they sold out nostrud affogato officia kitsch."
+        value: "As a small business woman, author, mother, grandmother, and Member of Congress, Marsha Blackburn has dedicated her service to making America a more prosperous place to live."
     },
 
 })
@@ -100,9 +100,6 @@ const mission = Object.create({}, {
 const vote = Object.create({}, {
     url: {
         value: "http://www.vote.gov"
-    },
-    Action: {
-        value: "Go Vote!"
     }
 })
 
